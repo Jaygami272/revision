@@ -1,0 +1,5 @@
+{
+    "watch":["src"],
+    "exe":"ts",
+    "exec":"node --loader ts-node/esm src/app.ts"
+}
